@@ -1,5 +1,7 @@
 # we-humans
 
+<img width="660" height="450" alt="humanbots_660_270220123455" src="https://github.com/user-attachments/assets/c723da6d-1bc8-4a43-97d7-79c735cbad66" />
+
 **Kind of Disclaimer:** 
 
 All content in this repo is non-AI. I will write every piece of content in this repo with no direct use of AI, except for the previous or ongoing indirect effect of AI on my thoughts, which I hope should not be that effective. Also pardon my English.
