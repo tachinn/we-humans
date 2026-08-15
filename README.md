@@ -25,4 +25,4 @@ As AI is being developed and distributed at a very high pace, it concerns me. I 
 - Also writing down something instead of just thinking about it, makes us more clear about the topic.
 
 \
-And yeah, this is what **I** think.
+And yeah, this is what >>**I**<< think.
